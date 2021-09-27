@@ -1,0 +1,21 @@
+.root__places {
+    margin: 4rem 0 0;
+}
+
+@media screen and (min-width: 768px) {
+    .root__places {
+        margin: 5.5rem 1.5rem 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .root__places {
+        margin: 5.75rem 3rem 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .root__places {
+        margin: 5.75rem 9.25rem 0;
+    }
+}

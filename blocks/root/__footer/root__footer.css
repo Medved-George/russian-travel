@@ -1,0 +1,15 @@
+.root__footer {
+    margin: 4rem 1rem 1.5rem;
+}
+
+@media screen and (min-width: 768px) {
+    .root__footer {
+        margin: 5.5rem 1.5rem 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .root__footer {
+        margin: 5.75rem 3rem 3rem;
+    }
+}

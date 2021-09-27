@@ -1,6 +1,5 @@
 .lead__subtitle {
-    margin: 0;
-    padding: 0 1rem 2.5rem;
+    margin: 0 1rem 2.5rem;
     color: #fff;
     font-size: 16px;
     line-height: 120%;
@@ -8,23 +7,21 @@
     text-align: center;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) {
     .lead__subtitle {
-        padding: 0 4rem 3.5rem;
+        margin: 0 4rem 3.5rem;
         font-size: 30px;
     }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
+@media screen and (min-width: 1024px) {
     .lead__subtitle {
-        padding: 0 calc(12rem - 3rem) 3.5rem;
-        font-size: 30px;
+        margin: 0 calc(12rem - 3rem) 3.5rem;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .lead__subtitle {
-        padding: 0 calc(20rem - 9.25rem) 4rem;
-        font-size: 30px;
+        margin: 0 calc(20rem - 9.25rem) 4rem;
     }
 }

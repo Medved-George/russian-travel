@@ -1,0 +1,15 @@
+.root__photo-grid {
+    margin: 4rem 1rem 0;
+}
+
+@media screen and (min-width: 768px) {
+    .photo-grid {
+        margin: 5.75rem 1.5rem 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .photo-grid {
+        margin: 5.75rem 3rem 0;
+    }
+}
