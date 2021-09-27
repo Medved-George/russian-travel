@@ -21,3 +21,5 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+https://medved-george.github.io/russian-travel/
