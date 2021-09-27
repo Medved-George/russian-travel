@@ -1,0 +1,21 @@
+.lead {
+    padding: 3rem 0 0;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .lead {
+        padding: 3.5rem 0 0;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .lead {
+        padding: 3rem 3rem 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead {
+        padding: 3.5rem 9.25rem 0;
+    }
+}
