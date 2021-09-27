@@ -4,13 +4,13 @@
     font-weight: normal;
     font-size: 14px;
     line-height: 114%;
-    width: 288px;
+    max-width: 288px;
 }
 
 @media screen and (min-width: 768px) {
     .cover__subtitle {
         padding-top: 32px;
-        width: 560px;
+        max-width: 560px;
         font-size: 18px;
     }
 }
