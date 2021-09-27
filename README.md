@@ -22,4 +22,4 @@
 
 Удачи!
 
-https://medved-george.github.io/russian-travel/html
+https://medved-george.github.io/russian-travel/russian-travel.html
