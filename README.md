@@ -25,4 +25,4 @@
 
 ## Ссылки
 
-    [Путешествие по России - ](https://medved-george.github.io/russian-travel/russian-travel.html)
+https://medved-george.github.io/russian-travel/russian-travel.html - Путешествие по России
