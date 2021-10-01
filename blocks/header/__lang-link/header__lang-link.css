@@ -1,15 +1,11 @@
 .header__lang-link {
     margin: 0;
-    margin-right: 18px;
     font-size: 18px;
     line-height: 117%;
     font-weight: 400;
     color: #fff;
     text-decoration: none;
-}
-
-.header__lang-link:last-of-type {
-    margin-right: 0;
+    transition: .3s;
 }
 
 .header__lang-link:hover {

@@ -1,5 +1,6 @@
 .header__logo {
     width: 142px;
+    transition: .3s;
 }
 
 .header__logo:hover {

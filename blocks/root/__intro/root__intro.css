@@ -13,3 +13,9 @@
         margin: 6rem 0 0 3rem;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .root__intro {
+        margin: 6rem 0 0 9.25rem;
+    }
+}

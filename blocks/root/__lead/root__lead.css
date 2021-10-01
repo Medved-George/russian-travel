@@ -1,21 +1,15 @@
 .root__lead {
-    margin-top: 3rem;
-}
-
-@media screen and (min-width: 768px) {
-    .root__lead {
-        margin-top: 3.5rem;
-    }
+    margin: 3.3rem 0 0;
 }
 
 @media screen and (min-width: 1024px) {
     .root__lead {
-        margin-top: 3rem;
+        margin: 3rem 3rem 0;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .root__lead {
-        margin-top: 3.5rem;
+        margin: 3.5rem 9.25rem 0;
     }
 }
