@@ -1,15 +1,15 @@
 .root__header {
-    margin: 1rem 1rem 0;
+    margin: 19px 16px 0;
 }
 
 @media screen and (min-width: 768px) {
     .root__header {
-        margin: 1.5rem 1.5rem 0;
+        margin: 22px 24px 0;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .root__header {
-        margin: 1.75rem 3rem 0;
+        margin: 28px 48px 0;
     }
 }
